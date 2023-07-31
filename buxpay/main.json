@@ -1,0 +1,22 @@
+{
+    "cookies": [
+        {
+            "cookie": "bot cookie here",
+            "universe": 123,
+            "userid": 123
+        }
+    ],
+    "clients": [
+        {
+            "username": "example",
+            "api_key": "daf81c63-211d-4ce6-a490-3662354189d3",
+            "robux_earned": 0,
+            "robux_balance": 0,
+            "expires": 1689566387,
+            "plan": "premium",
+            "invoices": [
+                
+            ]
+        }
+    ]
+}
